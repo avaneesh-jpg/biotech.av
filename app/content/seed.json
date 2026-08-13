@@ -1,0 +1,325 @@
+[
+  {
+    "text": "Biotech Seed Thesis (Draft #1)",
+    "runs": [
+      {
+        "text": "Biotech Seed Thesis (Draft #1)",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "The main blog post for biotech (on the biotech main page) outlines why these market maps deliberately exclude what we term “simple therapeutics,” or companies that focus entirely on one particular drug. For the seed stage, the necessity for excluding such companies grows. Seed stage companies are one of the earliest in even the private markets, and for their drug of choice to be successful, they have an incredibly long road ahead; given the drug-producing system that already kills off most drugs before they pass through clinical trials, aspiring “simple therapeutics” companies at the seed stage will almost always fail.",
+    "runs": [
+      {
+        "text": "The main blog post for biotech (on the biotech main page) outlines why these market maps deliberately exclude what we term “simple therapeutics,” or companies that focus entirely on one particular drug. For the seed stage, the necessity for excluding such companies grows. Seed stage companies are one of the earliest in even the private markets, and for their drug of choice to be successful, they have an incredibly long road ahead; given the drug-producing system that already kills off most drugs before they pass through clinical trials, aspiring “simple therapeutics” companies at the seed stage will almost always fail. ",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "So what must we look for? We need new technologies that either 1) expand across biotech to make a certain existing process more efficient, 2) are simply a scientific novelty that deserves funding and the ability to grow, or 3) both are a scientific novelty and can expand across biotech. Let’s first look at the former.",
+    "runs": [
+      {
+        "text": "So what must we look for? We need new technologies that either 1) expand across biotech to make a certain existing process more efficient, 2) are simply a scientific novelty that deserves funding and the ability to grow, or 3) both are a scientific novelty and can expand across biotech. Let’s first look at the former. ",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "Biopharma R&D’s barrier is rarely a lack of biological data; it is slow because operations are fragmented. As such, researchers often spend 80% of their time switching and reformatting between applications, leaving only 20% for the actual reasoning that drives an effective scientific method. Existing tools often do not help much, because they are simple chatbots and don’t incorporate the entire workflow, which is what’s most important for the iterative and complex process that is science. Phylo’s solution is Biomni Lab, acting as an “IDE for Biology” and unifying over 300 biomedical databases, software tools, and analytical systems into a single steerable environment. Phylo’s co-founders, ex-PhDs from Stanford, have seen the relevant issues firsthand, and scientists at big pharma (e.g. AstraZeneca, Novartis, and Astellas) have deemed the platform one of the most capable of its kind, shrinking one major pharma company’s weeks-long workflow into hours. It’s no wonder that the company has attracted Andreessen Horowitz, Menlo Ventures, and Anthropic to the cap table.",
+    "runs": [
+      {
+        "text": "Biopharma R&D’s barrier is rarely a lack of biological data; it is slow because operations are fragmented. As such, researchers often spend ",
+        "href": ""
+      },
+      {
+        "text": "80% of their time",
+        "href": "https://menlovc.com/perspective/the-ide-that-biology-never-had-why-were-leading-phylos-seed-round/"
+      },
+      {
+        "text": " switching and reformatting between applications, leaving only 20% for the actual reasoning that drives an effective scientific method. Existing tools often do not help much, because they are simple chatbots and don’t incorporate the entire workflow, which is what’s most important for the iterative and complex process that is science. Phylo’s solution is Biomni Lab, acting as an ",
+        "href": ""
+      },
+      {
+        "text": "“IDE for Biology”",
+        "href": "https://siliconangle.com/2026/02/03/ai-startup-phylo-nabs-13-5m-integrated-biology-environment/"
+      },
+      {
+        "text": " and ",
+        "href": ""
+      },
+      {
+        "text": "unifying",
+        "href": "https://phylo.bio/blog/company-fundraising-announcement"
+      },
+      {
+        "text": " over 300 biomedical databases, software tools, and analytical systems into a single steerable environment. Phylo’s co-founders, ex-PhDs from Stanford, have seen the relevant issues firsthand, and scientists at big pharma (e.g. AstraZeneca, Novartis, and Astellas) have deemed the platform ",
+        "href": ""
+      },
+      {
+        "text": "one of the most capable",
+        "href": "https://menlovc.com/perspective/the-ide-that-biology-never-had-why-were-leading-phylos-seed-round/"
+      },
+      {
+        "text": " of its kind, shrinking one major pharma company’s weeks-long workflow into hours. It’s no wonder that the company has attracted Andreessen Horowitz, Menlo Ventures, and Anthropic to the cap table.",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "As stated earlier, scientific novelty that shows potential for impact should be given funding and the chance to grow; neurotechnology, as the domain of biotech that addresses the least understood organ of the human body, positions itself quite well for scientific progress. With brain-computer interfaces (BCIs) as a whole, a primary concern is the degree of invasiveness: Musk’s Neuralink requires a craniotomy (open-brain surgery), Precision Neuroscience only uses a small slit and doesn’t penetrate brain tissue, and Synchron avoids making cuts on the head by opting for a neck incision instead. For a comparison of the leading BCI companies today, see this article. As one of the top 100 seed companies in our list, Merge Labs is trying to be another one of the non-Neuralinks of the world, attempting to keep the invasiveness to a minimum: avoiding deep brain penetration, Merge Labs’ sensors would be placed just above brain tissue or in the bone, using ultrasound rather than electrical technology. This ultrasound technology is so revolutionary because it can reach much broader regions of the brain, allowing signal reception and stimulation of various sites. Like much of novel science, the technology behind Merge Labs’ ultrasound stems from research at a leading university: Caltech’s Shapiro Lab, led by Dr. Mikhail Shapiro, has used ultrasound to predict a monkey’s hand or eye movement. Alongside the lab’s research into forming gas vesicles that respond bidirectionally to ultrasound stimulation, there is solid foundation for a technology that should be explored more thoroughly in clinical translation. The technology found its first abode through Forest Neurotech, led by Shapiro Lab postdoc Dr. Sumner L. Norman, before it spun off into Merge Labs. And although the long-term impact of gas vesicles and precision of this ultrasound technology in the human brain is yet to be studied, as a seed company backed by over $250M, Merge Labs has incredible potential.",
+    "runs": [
+      {
+        "text": "As stated earlier, scientific novelty that shows potential for impact should be given funding and the chance to grow; neurotechnology, as the domain of biotech that addresses the least understood organ of the human body, positions itself quite well for scientific progress. With brain-computer interfaces (BCIs) as a whole, a primary concern is the degree of invasiveness: Musk’s Neuralink requires a craniotomy (open-brain surgery), Precision Neuroscience only uses a small slit and doesn’t penetrate brain tissue, and Synchron avoids making cuts on the head by opting for a neck incision instead. For a comparison of the leading BCI companies today, ",
+        "href": ""
+      },
+      {
+        "text": "see this article",
+        "href": "https://newmarketpitch.com/blogs/news/neurotech-brain-chip-company"
+      },
+      {
+        "text": ". As one of the top 100 seed companies in our list, Merge Labs is trying to be another one of the non-Neuralinks of the world, attempting to keep the invasiveness to a minimum: avoiding deep brain penetration, Merge Labs’ sensors would be placed ",
+        "href": ""
+      },
+      {
+        "text": "just above brain tissue or in the bone",
+        "href": "https://www.nature.com/articles/d41586-026-00329-x"
+      },
+      {
+        "text": ", using ultrasound rather than electrical technology. This ultrasound technology is so revolutionary because it can reach much broader regions of the brain, allowing signal reception and stimulation of various sites. Like much of novel science, the technology behind Merge Labs’ ultrasound stems from research at a leading university: Caltech’s Shapiro Lab, led by Dr. Mikhail Shapiro, has used ultrasound to ",
+        "href": ""
+      },
+      {
+        "text": "predict a monkey’s hand or eye movement",
+        "href": "https://www.science.org/content/article/ultrasound-reads-monkey-brains-opening-new-way-control-machines-thought?__cf_chl_tk=OBNbv702d5q6qcOSr_kN0gJuFTmuFqGMtwNbUXTz4iQ-1784845932-1.0.1.1-9iBkZcRzNyulhFZSRZ4iNjcAZwP5DApBh0ZP0tckOdk"
+      },
+      {
+        "text": ". Alongside the lab’s research into ",
+        "href": ""
+      },
+      {
+        "text": "forming gas vesicles",
+        "href": "https://shapirolab.caltech.edu/?p=1593"
+      },
+      {
+        "text": " that respond bidirectionally to ultrasound stimulation, there is solid foundation for a technology that should be explored more thoroughly in clinical translation. The technology found its first abode through Forest Neurotech, led by Shapiro Lab postdoc Dr. Sumner L. Norman, before it spun off into Merge Labs. And although the long-term impact of gas vesicles and precision of this ultrasound technology in the human brain is yet to be studied, as a seed company backed by over $250M, Merge Labs has incredible potential. ",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "Pulling from the Alumni Ventures portfolio, ParcelBio addresses a whitespace in biotech as a whole. Linear mRNA transformed vaccine development during COVID-19, but because of its transience, it remains a bottleneck for treating chronic disease. Standard mRNA rapidly degrades once inside the cytoplasm, resulting in trade-offs in dose size, toxicity, and molecular endurance; alternative solutions, such as circular RNA, introduce their own challenges in biomanufacturing or yields on protein expression. Through its APEXm platform, (Amplified and Prolonged EXpression mRNA), ParcelBio addresses this bottleneck, engineering specific linear mRNA strands that recruit the cell’s native machinery, with preclinical data demonstrating significantly higher and more durable protein expression than leading clinical mRNA designs. Their primary program targets pathogenic B cells in autoimmune diseases through in-vivo CAR-T.",
+    "runs": [
+      {
+        "text": "Pulling from the Alumni Ventures portfolio, ParcelBio addresses a whitespace in biotech as a whole. Linear mRNA transformed vaccine development during COVID-19, but ",
+        "href": ""
+      },
+      {
+        "text": "because of its transience",
+        "href": "https://www.genengnews.com/topics/drug-discovery/parcelbio-unveils-programmable-mrna-platform-backed-by-13m-financing/"
+      },
+      {
+        "text": ", it remains a bottleneck for treating chronic disease. Standard mRNA rapidly degrades once inside the cytoplasm, resulting in trade-offs in dose size, toxicity, and molecular endurance; alternative solutions, such as circular RNA, introduce their own challenges in biomanufacturing or yields on protein expression. Through its APEXm platform, (Amplified and Prolonged EXpression mRNA), ParcelBio addresses this bottleneck, engineering specific linear mRNA strands that ",
+        "href": ""
+      },
+      {
+        "text": "recruit the cell’s native machinery",
+        "href": "https://firstwordpharma.com/story/7303159"
+      },
+      {
+        "text": ", with preclinical data demonstrating significantly higher and ",
+        "href": ""
+      },
+      {
+        "text": "more durable protein expression",
+        "href": "https://pulse2.com/parcelbio-13-million-seed-financing-raised-to-advance-next-generation-mrna-medicines/"
+      },
+      {
+        "text": " than leading clinical mRNA designs. Their primary program targets pathogenic B cells in autoimmune diseases through in-vivo CAR-T.",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "Q: Why doesn’t this drug discovery program for autoimmune diseases violate the “simple therapeutics” thesis?",
+    "runs": [
+      {
+        "text": "Q",
+        "href": ""
+      },
+      {
+        "text": ": ",
+        "href": ""
+      },
+      {
+        "text": "Why doesn’t this drug discovery program for autoimmune diseases violate the “simple therapeutics” thesis? ",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "A: ParcelBio’s greatest novelty is the APEXm platform. Perhaps they choose to focus on autoimmune disease and B-cell depletion now, but more than simply developing in this sector, their research will pave the way for an entirely new method to be expanded to a myriad of other therapeutic areas.",
+    "runs": [
+      {
+        "text": "A",
+        "href": ""
+      },
+      {
+        "text": ":",
+        "href": ""
+      },
+      {
+        "text": " ParcelBio’s greatest novelty is the APEXm platform. Perhaps they choose to focus on autoimmune disease and B-cell depletion now, but more than simply developing in this sector, their research will pave the way for an entirely new method to be expanded to a myriad of other therapeutic areas.",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "The pinnacle of biology + AI, biomolecular foundation models, mark the combination of novelty and horizontal expansion across biotech. To understand the evolution of these models, it is essential to understand the impact of Google DeepMind’s release of AlphaFold 3. While AlphaFold 2 revolutionized static monomeric protein folding (predicting the 3D structure of individual amino acid chains), AlphaFold 3 could jointly co-fold proteins, nucleic acids, small-molecular ligands, and sugars. However, Google DeepMind restricted commercial access and fine-tuning for AlphaFold 3, leaving the world desiring open-source distribution, new features like antibody generation, and validation of the in silico results.",
+    "runs": [
+      {
+        "text": "The pinnacle of biology + AI, biomolecular foundation models, mark ",
+        "href": ""
+      },
+      {
+        "text": "the",
+        "href": ""
+      },
+      {
+        "text": " combination of novelty and horizontal expansion across biotech. To understand the evolution of these models, it is essential to understand the impact of Google DeepMind’s release of AlphaFold 3. While AlphaFold 2 revolutionized static monomeric protein folding (predicting the 3D structure of individual amino acid chains), ",
+        "href": ""
+      },
+      {
+        "text": "AlphaFold 3 could jointly",
+        "href": "https://note.com/pharma_insight/n/nfe3c598ff7c3?hl=en"
+      },
+      {
+        "text": " co-fold proteins, nucleic acids, small-molecular ligands, and sugars. However, Google DeepMind restricted commercial access and fine-tuning for AlphaFold 3, leaving the world desiring open-source distribution, new features like antibody generation, and validation of the ",
+        "href": ""
+      },
+      {
+        "text": "in silico",
+        "href": ""
+      },
+      {
+        "text": " results.",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "Possibly the fastest-growing name in today’s biotech is Chai Discovery, which emerged in 2024 as an independent AI platform challenging Google’s pillar Alphafold 3 model. Chai shifted the focus from static structure prediction to zero-shot, de novo generative design for antibodies, with the Chai-2 model yielding a 100-fold improvement over historical computational baselines. This July (7/2026), Chai just announced its $400M Series C, backed by the largest AI labs, VCs, and partnerships with Eli Lilly, Pfizer, and Novartis.",
+    "runs": [
+      {
+        "text": "Possibly the fastest-growing name in today’s biotech is Chai Discovery, which emerged in 2024 as an independent AI platform challenging Google’s pillar Alphafold 3 model. Chai shifted the focus from static structure prediction to zero-shot, ",
+        "href": ""
+      },
+      {
+        "text": "de novo",
+        "href": ""
+      },
+      {
+        "text": " generative design for antibodies, with the Chai-2 model yielding a ",
+        "href": ""
+      },
+      {
+        "text": "100-fold improvement",
+        "href": "https://www.biorxiv.org/content/10.1101/2025.07.05.663018v1.full-text"
+      },
+      {
+        "text": " over historical computational baselines. This July (7/2026), Chai just announced its ",
+        "href": ""
+      },
+      {
+        "text": "$400M Series C",
+        "href": "https://intuitionlabs.ai/articles/chai-discovery-series-c-valuation"
+      },
+      {
+        "text": ", backed by the largest AI labs, VCs, and partnerships with Eli Lilly, Pfizer, and Novartis. ",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "Q: This page is about seed stage companies, so what have they done for biomolecular foundation models, and how can they even compete with DeepMind and Chai?",
+    "runs": [
+      {
+        "text": "Q",
+        "href": ""
+      },
+      {
+        "text": ": ",
+        "href": ""
+      },
+      {
+        "text": "This page is about seed stage companies, so what have they done for biomolecular foundation models, and how can they even compete with DeepMind and Chai?",
+        "href": ""
+      },
+      {
+        "text": " ",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "A: Great question, Boltz is a great example.",
+    "runs": [
+      {
+        "text": "A",
+        "href": ""
+      },
+      {
+        "text": ": ",
+        "href": ""
+      },
+      {
+        "text": "Great question, Boltz is a great example.",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "While Chai Discovery pushed zero-shot antibody design, Boltz addressed the demand of open-source models (neither of Chai’s latest models, Chai-2 and Chai-3, are open-source). Boltz started as a simple, open-source model created by researchers at MIT, but has now transformed into a Public Benefit Corporation, releasing AlphaFold-level models to the public. To monetize, Boltz also offers the cloud-based Boltz Lab platform, for fine-tuning and computing power. Pfizer, which has a partnership with Chai Discovery, also signed a partnership with Bolz, allowing Pfizer to use its vast buckets of pharmaceutical data alongside Boltz’s models, ensuring that Pfizer can tweak to their standards and maintain ownership of the output. Such a large pharma partnership, especially at such an early stage, is the marker of a high-potential biotech platform.",
+    "runs": [
+      {
+        "text": "While Chai Discovery pushed zero-shot antibody design, Boltz addressed the demand of open-source models (neither of Chai’s latest models, Chai-2 and Chai-3, are open-source). Boltz started as a simple, open-source model created by researchers at MIT, but has now transformed into a Public Benefit Corporation, releasing AlphaFold-level models to the public. To monetize, Boltz also offers the cloud-based Boltz Lab platform, for fine-tuning and computing power. Pfizer, which has a partnership with Chai Discovery, also signed a ",
+        "href": ""
+      },
+      {
+        "text": "partnership with Bolz",
+        "href": "https://www.prnewswire.com/news-releases/boltz-and-pfizer-announce-strategic-collaboration-to-develop-and-deploy-state-of-the-art-biomolecular-ai-foundation-models-302656405.html"
+      },
+      {
+        "text": ", allowing Pfizer to use its vast buckets of pharmaceutical data alongside Boltz’s models, ensuring that Pfizer can tweak to their standards and maintain ownership of the output. Such a large pharma partnership, especially at such an early stage, is the marker of a high-potential biotech platform.",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "Another one of our top 100 seed, Proxima Bio tackles a fundamentally different limitation of the post-AlphaFold 3 era: Most AI-prediction tools rely on Multiple Sequence Alignments (MSAs), which struggle with modeling entities such as PROTACs (drugs that destroy disease-causing proteins instead of just blocking them) or molecular glues, because evolutionary indicators are often absent. Proxima Bio solves this by coupling its proprietary biomolecular foundation model, Neo-1, with NeoLink, a physical wet-lab that uses cross-linking mass spectrometry (a method to see 3D structure and interactions between proteins). The feedback loop between Proxima Bio’s dry and wet labs continues to improve their system as a whole.",
+    "runs": [
+      {
+        "text": "Another one of our top 100 seed, Proxima Bio tackles a fundamentally different limitation of the post-AlphaFold 3 era: Most AI-prediction tools rely on Multiple Sequence Alignments (MSAs), which ",
+        "href": ""
+      },
+      {
+        "text": "struggle with modeling",
+        "href": "https://proximabio.com/neo-1"
+      },
+      {
+        "text": " entities such as PROTACs (drugs that destroy disease-causing proteins instead of just blocking them) or molecular glues, because evolutionary indicators are often absent. Proxima Bio solves this by coupling its proprietary biomolecular foundation model, Neo-1, with NeoLink, a physical wet-lab that uses cross-linking mass spectrometry (a method to see 3D structure and interactions between proteins). The feedback loop between Proxima Bio’s dry and wet labs continues to improve their system as a whole. ",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "At its core, as with any industry, biotech is shifting, and companies like Phylo, Merge Labs, ParcelBio, Boltz, and ProximaBio are at the forefront. At the seed stage, there is heavy representation in AI Discovery & Bio Foundation Models; Lab Automation, Agentic Science & Data Infra; and other spaces  like Delivery Systems and Neurotech that pioneer the next generation of therapeutic infrastructure.",
+    "runs": [
+      {
+        "text": "At its core, as with any industry, biotech is shifting, and companies like Phylo, Merge Labs, ParcelBio, Boltz, and ProximaBio are at the forefront. At the seed stage, there is heavy representation in AI Discovery & Bio Foundation Models; Lab Automation, Agentic Science & Data Infra; and other spaces  like Delivery Systems and Neurotech that pioneer the next generation of therapeutic infrastructure. ",
+        "href": ""
+      }
+    ]
+  }
+]

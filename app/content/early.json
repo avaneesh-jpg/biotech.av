@@ -1,0 +1,290 @@
+[
+  {
+    "text": "Biotech Early Thesis (Draft #1)",
+    "runs": [
+      {
+        "text": "Biotech Early Thesis (Draft #1)",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "The main blog post has outlined why we deliberately exclude what we term “simple therapeutics,” or companies that focus entirely on one particular drug.",
+    "runs": [
+      {
+        "text": "The main blog post has outlined why we deliberately exclude what we term “simple therapeutics,” or companies that focus entirely on one particular drug. ",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "This does not mean that an asset-centric biotech cannot be an excellent company. Ollin Biosciences, for example, launched with $100 million to acquire and advance ophthalmology therapies, led by its VEGF/Ang2 bispecific OLN324 and a second program, OLN102. Its subsequent $330 million Series B reflects meaningful clinical progress and investor confidence. But Ollin describes itself as an asset-centric biotech: its core value is building, acquiring, and clinically advancing a focused ophthalmology pipeline, rather than demonstrating a repeatable platform whose usefulness compounds across many external programs. We exclude companies like Ollin not because their science is weak, but because this map is designed to identify the infrastructure, tools, and platforms that can improve biotechnology beyond the outcome of any one therapeutic portfolio.",
+    "runs": [
+      {
+        "text": "This does not mean that an asset-centric biotech cannot be an excellent company.",
+        "href": ""
+      },
+      {
+        "text": " ",
+        "href": "https://ollin.bio/press-releases/ollin-biosciences-launches-with-mission-to-accelerate-best-in-class-therapies-in-ophthalmology/"
+      },
+      {
+        "text": "Ollin Biosciences",
+        "href": "https://ollin.bio/press-releases/ollin-biosciences-launches-with-mission-to-accelerate-best-in-class-therapies-in-ophthalmology/"
+      },
+      {
+        "text": ", for example, launched with $100 million to acquire and advance ophthalmology therapies, led by its VEGF/Ang2 bispecific OLN324 and a second program, OLN102. Its subsequent",
+        "href": ""
+      },
+      {
+        "text": " ",
+        "href": "https://ollin.bio/press-releases/ollin-biosciences-announces-oversubscribed-330-million-series-b-financing-to-advance-global-phase-3-development-of-oln324-in-dme-and-wet-amd-studies-commencing-in-second-half-of-2026/"
+      },
+      {
+        "text": "$330 million Series B",
+        "href": "https://ollin.bio/press-releases/ollin-biosciences-announces-oversubscribed-330-million-series-b-financing-to-advance-global-phase-3-development-of-oln324-in-dme-and-wet-amd-studies-commencing-in-second-half-of-2026/"
+      },
+      {
+        "text": " reflects meaningful clinical progress and investor confidence. But Ollin describes itself as an asset-centric biotech: its core value is building, acquiring, and clinically advancing a focused ophthalmology pipeline, rather than demonstrating a repeatable platform whose usefulness compounds across many external programs. We exclude companies like Ollin not because their science is weak, but because this map is designed to identify the infrastructure, tools, and platforms that can improve biotechnology beyond the outcome of any one therapeutic portfolio.",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "The thesis on the Biotech Seed page states how this exclusion is particularly important for seed companies, as they are still proving that their science works, and that a therapeutic candidate has an extremely long road ahead. At Series A/B, our preference for companies with repeatable, scalable platform value still stands, and startups at this stage achieve a milestone when they prove that sophisticated customers, pharmaceutical partners, or repeated experimental programs are validating the platform’s ability to generate value.",
+    "runs": [
+      {
+        "text": "The thesis on the Biotech Seed page states how this exclusion is particularly important for seed companies, as they are still proving that their science works, and that a therapeutic candidate has an extremely long road ahead. At Series A/B, our preference for companies with repeatable, scalable platform value still stands, and startups at this stage achieve a milestone when they prove that sophisticated customers, pharmaceutical partners, or repeated experimental programs are validating the platform’s ability to generate value. ",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "Picking up from the paragraphs in the Seed blog on biological foundation models, we have Isomorphic Labs: an AI-first drug discovery company that emerged from Google DeepMind and the AlphaFold research ecosystem. While AlphaFold 2 revolutionized protein structure prediction, and AlphaFold 3 expanded prediction to interactions involving proteins, nucleic acids, small-molecule ligands, and sugars, Isomorphic is trying to move beyond prediction and into drug design itself. Its Drug Design Engine is intended to design and optimize small molecules, antibodies, peptides, and molecular glues against difficult biological targets. The company’s strongest form of validation has come from commercial partnerships. In 2024, Isomorphic announced strategic collaborations with Eli Lilly and Novartis; both collaborations focused on multiple undisclosed targets. The partnership with Novartis was later expanded, suggesting that the initial collaboration generated enough value or confidence to justify additional work. In 2026, Isomorphic announced a third major collaboration with Johnson & Johnson, covering multiple targets and multiple modalities, including small molecules, antibodies, peptides, and molecular glues.",
+    "runs": [
+      {
+        "text": "Picking up from the paragraphs in the Seed blog on biological foundation models, we have ",
+        "href": ""
+      },
+      {
+        "text": "Isomorphic Labs",
+        "href": "https://www.isomorphiclabs.com/articles/introducing-isomorphic-labs"
+      },
+      {
+        "text": ": an AI-first drug discovery company that emerged from Google DeepMind and the AlphaFold research ecosystem. While ",
+        "href": ""
+      },
+      {
+        "text": "AlphaFold 2",
+        "href": "https://www.isomorphiclabs.com/articles/introducing-isomorphic-labs"
+      },
+      {
+        "text": " revolutionized protein structure prediction, and ",
+        "href": ""
+      },
+      {
+        "text": "AlphaFold 3",
+        "href": "https://www.nature.com/articles/s41586-024-07487-w"
+      },
+      {
+        "text": " expanded prediction to interactions involving proteins, nucleic acids, small-molecule ligands, and sugars, Isomorphic is trying to move beyond prediction and into drug design itself. Its ",
+        "href": ""
+      },
+      {
+        "text": "Drug Design Engine",
+        "href": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier"
+      },
+      {
+        "text": " is intended to design and optimize small molecules, antibodies, peptides, and molecular glues against difficult biological targets. The company’s strongest form of validation has come from commercial partnerships. In 2024, Isomorphic announced ",
+        "href": ""
+      },
+      {
+        "text": "strategic collaborations",
+        "href": "https://www.isomorphiclabs.com/articles/isomorphic-labs-kicks-off-2024-with-two-pharmaceutical-collaborations"
+      },
+      {
+        "text": " with Eli Lilly and Novartis; both collaborations focused on multiple undisclosed targets. The partnership with Novartis was ",
+        "href": ""
+      },
+      {
+        "text": "later expanded",
+        "href": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-novartis-collaboration-expansion"
+      },
+      {
+        "text": ", suggesting that the initial collaboration generated enough value or confidence to justify additional work. In 2026, Isomorphic announced a ",
+        "href": ""
+      },
+      {
+        "text": "third major collaboration with Johnson & Johnson",
+        "href": "https://www.isomorphiclabs.com/articles/isomorphic-labs-enters-into-a-research-collaboration-with-johnson-johnson"
+      },
+      {
+        "text": ", covering multiple targets and multiple modalities, including small molecules, antibodies, peptides, and molecular glues.",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "However, these partnerships are not yet the same as clinical validation: Isomorphic’s public disclosures do not identify a Lilly, Novartis, or Johnson & Johnson asset that has entered clinical trials, and the collaborations are best understood as commercially serious research agreements. This distinction is exactly what makes Isomorphic a strong Series B company. Its partners are validating the strategic importance of the platform before the company has publicly demonstrated clinical success. The platform has become valuable enough to sell, even though its ability to consistently produce successful human medicines has not yet been proven. Isomorphic’s $2.1 billion Series B in 2026 reflects the same transition, providing capital to scale the company’s internal drug-development capabilities and move AI-designed medicines toward clinical trials.",
+    "runs": [
+      {
+        "text": "However, these partnerships are not yet the same as clinical validation: Isomorphic’s public disclosures do not identify a Lilly, Novartis, or Johnson & Johnson asset that has entered clinical trials, and the collaborations are best understood as commercially serious research agreements. This distinction is exactly what makes Isomorphic a strong Series B company. Its partners are validating the strategic importance of the platform before the company has publicly demonstrated clinical success. The platform has become valuable enough to sell, even though its ability to consistently produce successful human medicines has not yet been proven. Isomorphic’s ",
+        "href": ""
+      },
+      {
+        "text": "$2.1 billion Series B",
+        "href": "https://www.isomorphiclabs.com/press/isomorphic-labs-funding"
+      },
+      {
+        "text": " in 2026 reflects the same transition, providing capital to scale the company’s internal drug-development capabilities and move AI-designed medicines toward clinical trials.",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "Q: If Isomorphic has not yet produced a clinically validated drug, why should we consider it a top company?",
+    "runs": [
+      {
+        "text": "Q",
+        "href": ""
+      },
+      {
+        "text": ":",
+        "href": ""
+      },
+      {
+        "text": " If Isomorphic has not yet produced a clinically validated drug, why should we consider it a top company?",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "A: Because Series A/B companies should not be judged only by clinical outcomes that may still be years away. Isomorphic has demonstrated that major pharmaceutical companies believe its platform can address important problems in drug discovery. The company now needs to convert that commercial validation into named assets, clinical candidates, and eventually clinical data.",
+    "runs": [
+      {
+        "text": "A",
+        "href": ""
+      },
+      {
+        "text": ": ",
+        "href": ""
+      },
+      {
+        "text": "Because Series A/B companies should not be judged only by clinical outcomes that may still be years away. Isomorphic has demonstrated that major pharmaceutical companies believe its platform can address important problems in drug discovery. The company now needs to convert that commercial validation into named assets, clinical candidates, and eventually clinical data. ",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "While Isomorphic approaches biotech from the drug discovery platform angle, Vivodyne comes back to the physical world as a human tissue company. A major problem in drug development is that preclinical models often fail to reproduce human biology. Animal models can miss human-specific toxicity, pharmacokinetics, and immune responses, while conventional organoids can lack the full architecture, vascularization, and cellular interactions of living tissue. Vivodyne is building an automated human-tissue platform intended to make preclinical drug testing more human-relevant. Vivodyne’s TissueDisks allow it to cultivate hundreds of human tissues in parallel. Its autonomous HIVE laboratories can perturb and analyze thousands of tissues at a time, generating phenomic, transcriptomic, and proteomic data at single-cell resolution, across more than 20 tissue types and disease models, including bone marrow, lymph nodes, liver, lung, placenta, cancer, fibrosis, autoimmune disease, and infections.",
+    "runs": [
+      {
+        "text": "While Isomorphic approaches biotech from the drug discovery platform angle, Vivodyne comes back to the physical world as a human tissue company. A major problem in drug development is that preclinical models often fail to reproduce human biology. ",
+        "href": ""
+      },
+      {
+        "text": "Animal models can miss human-specific toxicity, pharmacokinetics, and immune responses, while conventional organoids can lack the full architecture, vascularization, and cellular interactions of living tissue.",
+        "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10711768/"
+      },
+      {
+        "text": " Vivodyne is building an automated human-tissue platform intended to make preclinical drug testing more human-relevant. Vivodyne’s ",
+        "href": ""
+      },
+      {
+        "text": "TissueDisks",
+        "href": "https://www.vivodyne.com/platform"
+      },
+      {
+        "text": " allow it to cultivate hundreds of human tissues in parallel. Its ",
+        "href": ""
+      },
+      {
+        "text": "autonomous HIVE laboratories",
+        "href": "https://www.vivodyne.com/platform"
+      },
+      {
+        "text": " can perturb and analyze thousands of tissues at a time, generating phenomic, transcriptomic, and proteomic data at single-cell resolution, across more than 20 tissue types and disease models, including bone marrow, lymph nodes, liver, lung, placenta, cancer, fibrosis, autoimmune disease, and infections.  ",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "Vivodyne’s commercial validation is meaningful, though not fully transparent. In 2023, the company stated that it worked with a majority of the top ten pharmaceutical companies across modalities ranging from small molecules and antibodies to mRNA-LNPs and cell therapies. Yet Vivodyne has not publicly named most customers, disclosed the studies they are running, or shown whether its tissue data changed a clinical decision. That limitation matters. Its traction is evidence that pharmaceutical R&D teams are willing to pay for and repeatedly test the platform, but the next proof point is whether Vivodyne can disclose program-level evidence that its human-tissue results improve on conventional preclinical models. Additionally, as the FDA encourages New Approach Methodologies, Vivodyne has potential in developing ways to reduce or replace animal studies. While Vivodyne will not replace clinical trials, it could help pharmaceutical companies eliminate weak candidates, reduce the number of animals required, improve candidate prioritization, and potentially replace certain animal studies for specific toxicology or efficacy questions.",
+    "runs": [
+      {
+        "text": "Vivodyne’s commercial validation is meaningful, though not fully transparent. In 2023, the company stated that it worked with a ",
+        "href": ""
+      },
+      {
+        "text": "majority of the top ten pharmaceutical companies",
+        "href": "https://www.vivodyne.com/blog/vivodyne-announces-38-million-seed-financing-led-by-khosla-ventures"
+      },
+      {
+        "text": " across modalities ranging from small molecules and antibodies to mRNA-LNPs and cell therapies. Yet Vivodyne has not publicly named most customers, disclosed the studies they are running, or shown whether its tissue data changed a clinical decision. That limitation matters. Its traction is evidence that pharmaceutical R&D teams are willing to pay for and repeatedly test the platform, but the next proof point is whether Vivodyne can disclose program-level evidence that its human-tissue results improve on conventional preclinical models. Additionally, as the ",
+        "href": ""
+      },
+      {
+        "text": "FDA encourages New Approach Methodologies",
+        "href": "https://www.fda.gov/science-research/science-and-research-special-topics/new-approach-methodologies-nams"
+      },
+      {
+        "text": ", Vivodyne has potential in developing ways to reduce or replace animal studies. While Vivodyne will not replace clinical trials, it could help pharmaceutical companies eliminate weak candidates, reduce the number of animals required, improve candidate prioritization, and potentially replace certain animal studies for specific toxicology or efficacy questions.",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "Atrandi Biosciences, which develops systems for running multi-omics on the same cell, provides a similar, physical approach to improving biotech. In conventional single-cell workflows, high throughput droplets are difficult to manipulate through multiple steps, while multiwell plates provide flexibility at the cost of scale. Atrandi’s technology, in contrast, preserves flexibility while allowing experiments to be run at droplet-scale. Atrandi’s key distinction is its semi-permeable capsule (SPC). Instead of sealing a cell in an oil droplet or assigning it to a plate well, it puts each cell in an aqueous-core hydrogel capsule. The capsule retains the cell and its nucleic acids but allows small molecules, buffers, enzymes, and media to move through the shell. Atrandi reports connections with 200+ research groups, 20+ institutional partnerships, and 150+ instruments deployed. And because Atrandi brings a new method for scientific experimentation, connections and deployments with research groups better represent traction than large pharma partnerships or a novel drug might.",
+    "runs": [
+      {
+        "text": "Atrandi Biosciences",
+        "href": "https://atrandi.com/about"
+      },
+      {
+        "text": ", which develops systems for running multi-omics on the same cell, provides a similar, physical approach to improving biotech. In conventional single-cell workflows, high throughput droplets are difficult to manipulate through multiple steps, while multiwell plates provide flexibility at the cost of scale. Atrandi’s technology, in contrast, preserves flexibility while allowing experiments to be run at droplet-scale. Atrandi’s key distinction is its ",
+        "href": ""
+      },
+      {
+        "text": "semi-permeable capsule (SPC)",
+        "href": "https://www.science.org/doi/10.1126/science.ady7227"
+      },
+      {
+        "text": ". Instead of sealing a cell in an oil droplet or assigning it to a plate well, it puts each cell in an aqueous-core hydrogel capsule. The capsule retains the cell and its nucleic acids but allows small molecules, buffers, enzymes, and media to move through the shell. Atrandi reports connections with ",
+        "href": ""
+      },
+      {
+        "text": "200+ research groups, 20+ institutional partnerships, and 150+ instruments deployed",
+        "href": "https://atrandi.com/about"
+      },
+      {
+        "text": ". And because Atrandi brings a new method for scientific experimentation, connections and deployments with research groups better represent traction than large pharma partnerships or a novel drug might.",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "text": "In the Seed blog, we looked at novelty in biotech: technologies that either 1) expand across biotech to make a certain existing process more efficient, 2) are simply a scientific innovation that deserves funding and the ability to grow, or 3) both are an innovation and can expand across biotech. For a company to be successful at the Series A/B, it must have already passed the novelty threshold. Regardless of whether a company is a therapeutic, a foundation model, lab automator, success is measured by repeatability. If the strongest seed biotech startups validate themselves by connecting to a few labs and signing a pharma partnership, the strongest Series A/B startups have more volume of this same validation: more labs, more pharma, more industry involvement. When the industry as a whole begins to trust a startup and its services, said startup develops so much more potential to make large-scale impact.",
+    "runs": [
+      {
+        "text": "In the Seed blog, we looked at novelty in biotech: technologies that either 1) expand across biotech to make a certain existing process more efficient, 2) are simply a scientific innovation that deserves funding and the ability to grow, or 3) both are an innovation and can expand across biotech. For a company to be successful at the Series A/B, it must have already passed the novelty threshold. Regardless of whether a company ",
+        "href": ""
+      },
+      {
+        "text": "is a therapeutic",
+        "href": ""
+      },
+      {
+        "text": ", a foundation model, lab automator, success is measured by ",
+        "href": ""
+      },
+      {
+        "text": "repeatability",
+        "href": ""
+      },
+      {
+        "text": ". If the strongest seed biotech startups validate themselves by connecting to a few labs and signing a pharma partnership, the strongest Series A/B startups have more volume of this same validation: more labs, more pharma, more industry involvement. When the industry as a whole begins to trust a startup and its services, said startup develops so much more potential to make large-scale impact. ",
+        "href": ""
+      }
+    ]
+  }
+]
