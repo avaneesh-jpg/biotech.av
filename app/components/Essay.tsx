@@ -16,13 +16,15 @@ function RichText({runs,company,onCompany}:{runs:Run[];company?:Company;onCompan
     if(run.bold) node = <strong>{node}</strong>;
     return run.href?<a key={key} href={run.href} target="_blank" rel="noreferrer">{node}</a>:<span key={key}>{node}</span>;
   };
-  let inserted=false;
+  const matchingRun=company&&onCompany
+    ? runs.findIndex(run=>run.text.toLowerCase().includes(company.name.toLowerCase()))
+    : -1;
   return <>{runs.flatMap((run,index)=>{
     const content=styled(run,run.text,`${index}-run`);
-    if(!company||!onCompany||inserted)return [content];
+    if(!company||!onCompany||index!==matchingRun)return [content];
     const offset=run.text.toLowerCase().indexOf(company.name.toLowerCase());
     if(offset<0)return [content];
-    inserted=true;const before=run.text.slice(0,offset);const name=run.text.slice(offset,offset+company.name.length);const after=run.text.slice(offset+company.name.length);
+    const before=run.text.slice(0,offset);const name=run.text.slice(offset,offset+company.name.length);const after=run.text.slice(offset+company.name.length);
     return [<span key={`${index}-rich`}>{styled({...run,href:""},before,`${index}-before`)}<button className={`company-chip ${subsectorClass[company.subsector]||""}`} onClick={()=>onCompany(company)} aria-label={`View ${company.name} in the company map`}>{name}<span>↘</span></button>{styled(run,after,`${index}-after`)}</span>];
   })}</>;
 }
@@ -32,10 +34,8 @@ export function Essay({ paragraphs, companies = [], onCompany, home=false }: { p
   return <article className={`essay ${home?"main-thesis":""}`}>
     {paragraphs.slice(1).map((paragraph,index) => {
       const text = paragraph.text;
-      if (["The generic theme of drug discovery is now over.","Also noting down some of AV’s companies in this sector…Osmo?","Open whitespaces: extremophiles?"].includes(text)) return null;
       const found = companies.find(company => !firstMentions.has(company.name) && text.toLowerCase().includes(company.name.toLowerCase()));
       if (found) firstMentions.add(found.name);
-      if(text.startsWith("New Biology:")) return <div key={index} className="essay-paragraph"><p>New Biology: Just as genetic medicines and DNA offer novel sectors for innovation in biotech, New Biology groups together other unexplored sectors of biology. It is highly difficult in mid-2026 to innovate in generic fields of biology. Therefore, we encourage approaches built around novel cell states, previously unmeasurable molecular interactions, extremophile biology, olfaction, and other under-explored systems.</p></div>;
       const paragraphClass = `essay-paragraph${paragraph.bullet?" is-bullet":""}${paragraph.indentLevel?` is-indented indent-${paragraph.indentLevel}`:""}`;
       const prose = <RichText runs={paragraph.runs} company={found} onCompany={onCompany}/>;
       return <div key={index} className={paragraphClass}>{paragraph.bullet?<ul className="essay-list"><li>{prose}</li></ul>:<p>{prose}</p>}

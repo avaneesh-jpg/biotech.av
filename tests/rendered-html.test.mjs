@@ -3,13 +3,17 @@ import { readFile } from "node:fs/promises";
 import test from "node:test";
 
 test("ships the four-page 175-company research atlas", async () => {
-  const [home, seed, early, growth, raw, layout] = await Promise.all([
+  const [home, seed, early, growth, raw, layout, homeEssay, seedEssay, earlyEssay, growthEssay] = await Promise.all([
     readFile(new URL("../app/page.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/seed/page.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/early/page.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/growth/page.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/content/companies.json", import.meta.url), "utf8"),
     readFile(new URL("../app/layout.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/content/home.json", import.meta.url), "utf8"),
+    readFile(new URL("../app/content/seed.json", import.meta.url), "utf8"),
+    readFile(new URL("../app/content/early.json", import.meta.url), "utf8"),
+    readFile(new URL("../app/content/growth.json", import.meta.url), "utf8"),
   ]);
   const companies=JSON.parse(raw);
   assert.equal(companies.length,175);
@@ -24,4 +28,8 @@ test("ships the four-page 175-company research atlas", async () => {
   assert.ok(companies.some(c=>c.name==="Neuralink"));
   assert.ok(companies.some(c=>c.name==="Isomorphic Labs"));
   assert.match(layout,/og\.png/);
+  assert.match(homeEssay,/See our market maps to learn about these Biotech Picks And Shovels\./);
+  assert.match(seedEssay,/Biopharma R&D’s barrier is not only a lack of biological data/);
+  assert.match(earlyEssay,/Though we deliberately exclude/);
+  assert.match(growthEssay,/advantage compounds across biotech/);
 });

@@ -1,12 +1,9 @@
 [
   {
-    "text": "Biotech Growth Thesis (Draft #1)",
+    "text": "Biotech Growth Thesis",
     "runs": [
       {
-        "text": "Biotech Growth Thesis (Draft #1)",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "Biotech Growth Thesis"
       }
     ]
   },
@@ -14,10 +11,7 @@
     "text": "The Seed and Series A/B pages both have their own takes on why we deliberately exclude “simple therapeutics.” At Seed, the important question is whether a company has a technology novel enough to deserve funding and the chance to grow. At Series A/B, the strongest companies begin to demonstrate that customers, pharmaceutical partners, or repeated experimental programs actually see value in the platform. For Series C+, the benchmark changes once again. It is not enough for the science to be interesting, or for a large pharma company to try the platform once. A Growth-stage company should demonstrate that its advantage compounds across biotech: every new clinical study, customer, pharmaceutical program, or workflow should make the company more useful, credible, and difficult to replace. For therapeutics companies, this often means clinical and regulatory progress. For platforms and infrastructure, it means repeated adoption, expanding use cases, and deeper integration into how drug development actually happens (even more so than Series A/B companies, that is).",
     "runs": [
       {
-        "text": "The Seed and Series A/B pages both have their own takes on why we deliberately exclude “simple therapeutics.” At Seed, the important question is whether a company has a technology novel enough to deserve funding and the chance to grow. At Series A/B, the strongest companies begin to demonstrate that customers, pharmaceutical partners, or repeated experimental programs actually see value in the platform. For Series C+, the benchmark changes once again. It is not enough for the science to be interesting, or for a large pharma company to try the platform once. A Growth-stage company should demonstrate that its advantage compounds across biotech: every new clinical study, customer, pharmaceutical program, or workflow should make the company more useful, credible, and difficult to replace. For therapeutics companies, this often means clinical and regulatory progress. For platforms and infrastructure, it means repeated adoption, expanding use cases, and deeper integration into how drug development actually happens (even more so than Series A/B companies, that is).",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "The Seed and Series A/B pages both have their own takes on why we deliberately exclude “simple therapeutics.” At Seed, the important question is whether a company has a technology novel enough to deserve funding and the chance to grow. At Series A/B, the strongest companies begin to demonstrate that customers, pharmaceutical partners, or repeated experimental programs actually see value in the platform. For Series C+, the benchmark changes once again. It is not enough for the science to be interesting, or for a large pharma company to try the platform once. A Growth-stage company should demonstrate that its advantage compounds across biotech: every new clinical study, customer, pharmaceutical program, or workflow should make the company more useful, credible, and difficult to replace. For therapeutics companies, this often means clinical and regulatory progress. For platforms and infrastructure, it means repeated adoption, expanding use cases, and deeper integration into how drug development actually happens (even more so than Series A/B companies, that is)."
       }
     ]
   },
@@ -25,28 +19,18 @@
     "text": "Biomolecular foundation models are a category where this progression can be seen in action. At Seed, Boltz was an example of early scientific novelty becoming useful beyond one company. Its open-source models started as a response to the demand for an accessible alternative to closed systems like AlphaFold 3, and Boltz later signed a partnership with Pfizer to build and deploy custom biomolecular AI models using Pfizer’s proprietary data. At Series A/B, Isomorphic Labs garnered interest from numerous large pharmaceutical companies, could see enough potential in an AI drug-design system to pay for it before it had produced publicly disclosed clinical assets.",
     "runs": [
       {
-        "text": "Biomolecular foundation models are a category where this progression can be seen in action. At Seed, Boltz was an example of early scientific novelty becoming useful beyond one company. Its open-source models started as a response to the demand for an accessible alternative to closed systems like AlphaFold 3, and Boltz later signed a",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "Biomolecular foundation models are a category where this progression can be seen in action. At Seed, Boltz was an example of early scientific novelty becoming useful beyond one company. Its open-source models started as a response to the demand for an accessible alternative to closed systems like AlphaFold 3, and Boltz later signed a"
       },
       {
         "text": " ",
-        "href": "https://boltz.bio/pfizer-partnership",
-        "bold": false,
-        "italic": false
+        "href": "https://boltz.bio/pfizer-partnership"
       },
       {
         "text": "partnership with Pfizer",
-        "href": "https://boltz.bio/pfizer-partnership",
-        "bold": false,
-        "italic": false
+        "href": "https://boltz.bio/pfizer-partnership"
       },
       {
-        "text": " to build and deploy custom biomolecular AI models using Pfizer’s proprietary data. At Series A/B, Isomorphic Labs garnered interest from numerous large pharmaceutical companies, could see enough potential in an AI drug-design system to pay for it before it had produced publicly disclosed clinical assets. ",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": " to build and deploy custom biomolecular AI models using Pfizer’s proprietary data. At Series A/B, Isomorphic Labs garnered interest from numerous large pharmaceutical companies, could see enough potential in an AI drug-design system to pay for it before it had produced publicly disclosed clinical assets."
       }
     ]
   },
@@ -54,70 +38,39 @@
     "text": "Now, Chai Discovery proves the Growth-stage version of this same story. Chai first drew attention through its de novo antibody-design models, but what is more notable now is just how quickly pharmaceutical adoption followed. Between January and July of 2026, Chai announced arrangements with Eli Lilly, Pfizer, Novartis, and argenx, spanning mini-protein design to immunology discovery. In the middle of this sequence, Chai announced its $400 million Series C. To reiterate, these are not relationships accumulated slowly across years. Several of the largest pharmaceutical companies in the world moved from interest to deployment within a six-month period, using the technology through different commercial structures and for different biological problems. And while Isomorphic started with the institutional advantages of Alphabet, DeepMind, and the AlphaFold ecosystem, Chai did not. Chai emerged in 2024 as an independent company, meaning that its rapid move to a $400 million Series C was driven by external validation from investors and pharma rather than inherited credibility from one of the world’s most respected AI research organizations.",
     "runs": [
       {
-        "text": "Now, Chai Discovery proves the Growth-stage version of this same story. Chai first drew attention through its de novo antibody-design models, but what is more notable now is just how quickly pharmaceutical adoption followed. Between January and July of 2026, Chai announced arrangements with",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "Now, Chai Discovery proves the Growth-stage version of this same story. Chai first drew attention through its de novo antibody-design models, but what is more notable now is just how quickly pharmaceutical adoption followed. Between January and July of 2026, Chai announced arrangements with"
       },
       {
         "text": " ",
-        "href": "https://www.chaidiscovery.com/news",
-        "bold": false,
-        "italic": false
+        "href": "https://www.chaidiscovery.com/news"
       },
       {
         "text": "Eli Lilly, Pfizer, Novartis, and argenx",
-        "href": "https://www.chaidiscovery.com/news",
-        "bold": false,
-        "italic": false
+        "href": "https://www.chaidiscovery.com/news"
       },
       {
-        "text": ", spanning mini-protein design to immunology discovery",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": ", spanning mini-protein design to immunology discovery"
       },
       {
-        "text": ". In the middle of this sequence, Chai announced its",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": ". In the middle of this sequence, Chai announced its"
       },
       {
         "text": " ",
-        "href": "https://www.businesswire.com/news/home/20260713849009/en/Chai-Discovery-Announces-%24400M-Series-C-to-Advance-AI-Driven-Molecular-Design",
-        "bold": false,
-        "italic": false
+        "href": "https://www.businesswire.com/news/home/20260713849009/en/Chai-Discovery-Announces-%24400M-Series-C-to-Advance-AI-Driven-Molecular-Design"
       },
       {
         "text": "$400 million Series C",
-        "href": "https://www.businesswire.com/news/home/20260713849009/en/Chai-Discovery-Announces-%24400M-Series-C-to-Advance-AI-Driven-Molecular-Design",
-        "bold": false,
-        "italic": false
+        "href": "https://www.businesswire.com/news/home/20260713849009/en/Chai-Discovery-Announces-%24400M-Series-C-to-Advance-AI-Driven-Molecular-Design"
       },
       {
-        "text": ". To reiterate, these are not relationships accumulated slowly across years. Several of the largest pharmaceutical companies in the world moved from interest to deployment within a six-month period, using the technology through different commercial structures and for different biological problems. And while ",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": ". To reiterate, these are not relationships accumulated slowly across years. Several of the largest pharmaceutical companies in the world moved from interest to deployment within a six-month period, using the technology through different commercial structures and for different biological problems. And while "
       },
       {
         "text": "Isomorphic started",
-        "href": "https://www.isomorphiclabs.com/articles/introducing-isomorphic-labs",
-        "bold": false,
-        "italic": false
+        "href": "https://www.isomorphiclabs.com/articles/introducing-isomorphic-labs"
       },
       {
-        "text": " with the institutional advantages of Alphabet, DeepMind, and the AlphaFold ecosystem, Chai did not. Chai emerged in 2024 as an independent company, meaning that its rapid move to a $400 million Series C was driven by external validation from investors and pharma rather than inherited credibility from one of the world’s most respected AI research organizations.",
-        "href": "",
-        "bold": false,
-        "italic": false
-      },
-      {
-        "text": "",
-        "href": "",
-        "bold": false,
-        "italic": true
+        "text": " with the institutional advantages of Alphabet, DeepMind, and the AlphaFold ecosystem, Chai did not. Chai emerged in 2024 as an independent company, meaning that its rapid move to a $400 million Series C was driven by external validation from investors and pharma rather than inherited credibility from one of the world’s most respected AI research organizations."
       }
     ]
   },
@@ -125,64 +78,40 @@
     "text": "As stated earlier, neurotechnology is one of biotech’s least understood but most promising areas. Our Growth list includes three BCI companies: Neuralink, Precision Neuroscience, and Synchron. Each is trying to restore communication and device control for people with paralysis, but they approach the invasiveness problem in fundamentally different ways. Neuralink uses electrode threads inserted into the brain. Precision places an electrode array on the brain’s surface through a minimally invasive cranial slit. Synchron delivers its Stentrode interface through blood vessels, avoiding open-brain surgery altogether.",
     "runs": [
       {
-        "text": "As stated earlier, neurotechnology is one of biotech’s least understood but most promising areas. Our Growth list includes three BCI companies:",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "As stated earlier, neurotechnology is one of biotech’s least understood but most promising areas. Our Growth list includes three BCI companies:"
       },
       {
         "text": " ",
-        "href": "https://neuralink.com/",
-        "bold": false,
-        "italic": false
+        "href": "https://neuralink.com/"
       },
       {
         "text": "Neuralink",
-        "href": "https://neuralink.com/",
-        "bold": false,
-        "italic": false
+        "href": "https://neuralink.com/"
       },
       {
-        "text": ",",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": ","
       },
       {
         "text": " ",
-        "href": "https://www.precisionneuro.io/",
-        "bold": false,
-        "italic": false
+        "href": "https://www.precisionneuro.io/"
       },
       {
         "text": "Precision Neuroscience",
-        "href": "https://www.precisionneuro.io/",
-        "bold": false,
-        "italic": false
+        "href": "https://www.precisionneuro.io/"
       },
       {
-        "text": ", and",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": ", and"
       },
       {
         "text": " ",
-        "href": "https://synchron.com/",
-        "bold": false,
-        "italic": false
+        "href": "https://synchron.com/"
       },
       {
         "text": "Synchron",
-        "href": "https://synchron.com/",
-        "bold": false,
-        "italic": false
+        "href": "https://synchron.com/"
       },
       {
-        "text": ". Each is trying to restore communication and device control for people with paralysis, but they approach the invasiveness problem in fundamentally different ways. Neuralink uses electrode threads inserted into the brain. Precision places an electrode array on the brain’s surface through a minimally invasive cranial slit. Synchron delivers its Stentrode interface through blood vessels, avoiding open-brain surgery altogether.",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": ". Each is trying to restore communication and device control for people with paralysis, but they approach the invasiveness problem in fundamentally different ways. Neuralink uses electrode threads inserted into the brain. Precision places an electrode array on the brain’s surface through a minimally invasive cranial slit. Synchron delivers its Stentrode interface through blood vessels, avoiding open-brain surgery altogether."
       }
     ]
   },
@@ -190,28 +119,18 @@
     "text": "For the purpose of this essay, Neuralink and Precision make the comparison easiest. Neuralink (Series E) is further along in chronic therapeutic deployment. Its PRIME study is a first-in-human early-feasibility study of a fully implanted BCI for people with tetraplegia, and has reported participants’ abilities to control a cursor, browse the internet, and play games. Precision Neuroscience (Series C), an Alumni Ventures portfolio company, is not yet demonstrating the same chronic, at-home therapeutic use case as Neuralink, but has nevertheless built a substantial clinical and regulatory foundation:",
     "runs": [
       {
-        "text": "For the purpose of this essay, Neuralink and Precision make the comparison easiest. Neuralink (Series E) is further along in chronic therapeutic deployment. Its",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "For the purpose of this essay, Neuralink and Precision make the comparison easiest. Neuralink (Series E) is further along in chronic therapeutic deployment. Its"
       },
       {
         "text": " ",
-        "href": "https://clinicaltrials.gov/study/NCT06429735",
-        "bold": false,
-        "italic": false
+        "href": "https://clinicaltrials.gov/study/NCT06429735"
       },
       {
         "text": "PRIME study",
-        "href": "https://clinicaltrials.gov/study/NCT06429735",
-        "bold": false,
-        "italic": false
+        "href": "https://clinicaltrials.gov/study/NCT06429735"
       },
       {
-        "text": " is a first-in-human early-feasibility study of a fully implanted BCI for people with tetraplegia, and has reported participants’ abilities to control a cursor, browse the internet, and play games. Precision Neuroscience (Series C), an Alumni Ventures portfolio company, is not yet demonstrating the same chronic, at-home therapeutic use case as Neuralink, but has nevertheless built a substantial clinical and regulatory foundation:",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": " is a first-in-human early-feasibility study of a fully implanted BCI for people with tetraplegia, and has reported participants’ abilities to control a cursor, browse the internet, and play games. Precision Neuroscience (Series C), an Alumni Ventures portfolio company, is not yet demonstrating the same chronic, at-home therapeutic use case as Neuralink, but has nevertheless built a substantial clinical and regulatory foundation:"
       }
     ]
   },
@@ -219,28 +138,18 @@
     "text": "The FDA granted 510(k) clearance in March 2025 for Layer 7-T, a temporary high-resolution cortical interface used during neurosurgical procedures.",
     "runs": [
       {
-        "text": "The FDA granted",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "The FDA granted"
       },
       {
         "text": " ",
-        "href": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K242618",
-        "bold": false,
-        "italic": false
+        "href": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K242618"
       },
       {
         "text": "510(k) clearance",
-        "href": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K242618",
-        "bold": false,
-        "italic": false
+        "href": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K242618"
       },
       {
-        "text": " in March 2025 for Layer 7-T, a temporary high-resolution cortical interface used during neurosurgical procedures.",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": " in March 2025 for Layer 7-T, a temporary high-resolution cortical interface used during neurosurgical procedures."
       }
     ],
     "bullet": true,
@@ -250,28 +159,18 @@
     "text": "Precision reports use of its technology in more than 95 clinical-study patients across more than 15 hospital partners.",
     "runs": [
       {
-        "text": "Precision reports use of its technology in",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "Precision reports use of its technology in"
       },
       {
         "text": " ",
-        "href": "https://www.precisionneuro.io/for-clinicians",
-        "bold": false,
-        "italic": false
+        "href": "https://www.precisionneuro.io/for-clinicians"
       },
       {
         "text": "more than 95 clinical-study patients across more than 15 hospital partners",
-        "href": "https://www.precisionneuro.io/for-clinicians",
-        "bold": false,
-        "italic": false
+        "href": "https://www.precisionneuro.io/for-clinicians"
       },
       {
-        "text": ".",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "."
       }
     ],
     "bullet": true,
@@ -281,10 +180,7 @@
     "text": "The company reports real-time decoding of speech and movement, functional mapping in deep sulci and eloquent cortex, and no observed cortical injury from placement or removal of the array.",
     "runs": [
       {
-        "text": "The company reports real-time decoding of speech and movement, functional mapping in deep sulci and eloquent cortex, and no observed cortical injury from placement or removal of the array.",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "The company reports real-time decoding of speech and movement, functional mapping in deep sulci and eloquent cortex, and no observed cortical injury from placement or removal of the array."
       }
     ],
     "bullet": true,
@@ -294,28 +190,18 @@
     "text": "Precision and Medtronic announced a partnership in January 2026 to integrate Layer 7 with Medtronic’s StealthStation surgical-navigation platform.",
     "runs": [
       {
-        "text": "Precision and",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "Precision and"
       },
       {
         "text": " ",
-        "href": "https://www.globenewswire.com/news-release/2026/01/12/3217312/0/en/Precision-Neuroscience-and-Medtronic-Partner-to-Integrate-Layer-7-Brain-Computer-Interface-with-Medtronic-Neurosurgical-Platform.html",
-        "bold": false,
-        "italic": false
+        "href": "https://www.globenewswire.com/news-release/2026/01/12/3217312/0/en/Precision-Neuroscience-and-Medtronic-Partner-to-Integrate-Layer-7-Brain-Computer-Interface-with-Medtronic-Neurosurgical-Platform.html"
       },
       {
         "text": "Medtronic announced a partnership",
-        "href": "https://www.globenewswire.com/news-release/2026/01/12/3217312/0/en/Precision-Neuroscience-and-Medtronic-Partner-to-Integrate-Layer-7-Brain-Computer-Interface-with-Medtronic-Neurosurgical-Platform.html",
-        "bold": false,
-        "italic": false
+        "href": "https://www.globenewswire.com/news-release/2026/01/12/3217312/0/en/Precision-Neuroscience-and-Medtronic-Partner-to-Integrate-Layer-7-Brain-Computer-Interface-with-Medtronic-Neurosurgical-Platform.html"
       },
       {
-        "text": " in January 2026 to integrate Layer 7 with Medtronic’s StealthStation surgical-navigation platform.",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": " in January 2026 to integrate Layer 7 with Medtronic’s StealthStation surgical-navigation platform."
       }
     ],
     "bullet": true,
@@ -325,10 +211,7 @@
     "text": "Neither company is the better BCI company; Neuralink’s evidence is centered on long-term, independent device control, while Precision’s is centered on a removable interface in real hospital settings. Even so, as Series C+ companies, both companies earn validation beyond technical demonstration: more patients, sites, data, and applications.",
     "runs": [
       {
-        "text": "Neither company is the better BCI company; Neuralink’s evidence is centered on long-term, independent device control, while Precision’s is centered on a removable interface in real hospital settings. Even so, as Series C+ companies, both companies earn validation beyond technical demonstration: more patients, sites, data, and applications.",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "Neither company is the better BCI company; Neuralink’s evidence is centered on long-term, independent device control, while Precision’s is centered on a removable interface in real hospital settings. Even so, as Series C+ companies, both companies earn validation beyond technical demonstration: more patients, sites, data, and applications."
       }
     ]
   },
@@ -336,58 +219,35 @@
     "text": "Formation Bio is another useful Growth-stage example, particularly when compared to Phylo from the Seed thesis. Phylo’s Biomni Lab is designed to solve the fragmented nature of scientific work itself, combining databases, software, analysis tools, and agents into what the company calls an Integrated Biology Environment. Its test at Seed is whether researchers will actually use that workspace repeatedly. Formation works downstream from that point, as it acquires promising clinical-stage drug candidates and develops them in house. In 2024, Sanofi, Formation Bio, and OpenAI announced a collaboration to build AI-powered software across the drug-development lifecycle. Sanofi provides proprietary data, OpenAI provides model capabilities, and Formation contributes its engineering resources and development platform. That is, Formation is accountable for downstream development outcomes across partnered and owned assets.",
     "runs": [
       {
-        "text": "Formation Bio is another useful Growth-stage example, particularly when compared to Phylo from the Seed thesis. Phylo’s Biomni Lab is designed to solve the fragmented nature of scientific work itself, combining databases, software, analysis tools, and agents into what the company calls an ",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "Formation Bio is another useful Growth-stage example, particularly when compared to Phylo from the Seed thesis. Phylo’s Biomni Lab is designed to solve the fragmented nature of scientific work itself, combining databases, software, analysis tools, and agents into what the company calls an "
       },
       {
-        "text": "Integrated Biology Environment",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "Integrated Biology Environment"
       },
       {
-        "text": ". Its test at Seed is whether researchers will actually use that workspace repeatedly. Formation works downstream from that point, as it",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": ". Its test at Seed is whether researchers will actually use that workspace repeatedly. Formation works downstream from that point, as it"
       },
       {
         "text": " ",
-        "href": "https://www.formation.bio/our-model",
-        "bold": false,
-        "italic": false
+        "href": "https://www.formation.bio/our-model"
       },
       {
         "text": "acquires promising clinical-stage drug candidates and develops them in house",
-        "href": "https://www.formation.bio/our-model",
-        "bold": false,
-        "italic": false
+        "href": "https://www.formation.bio/our-model"
       },
       {
-        "text": ". In 2024,",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": ". In 2024,"
       },
       {
         "text": " ",
-        "href": "https://www.sanofi.com/en/media-room/press-releases/2024/2024-05-21-05-30-00-2885244",
-        "bold": false,
-        "italic": false
+        "href": "https://www.sanofi.com/en/media-room/press-releases/2024/2024-05-21-05-30-00-2885244"
       },
       {
         "text": "Sanofi, Formation Bio, and OpenAI",
-        "href": "https://www.sanofi.com/en/media-room/press-releases/2024/2024-05-21-05-30-00-2885244",
-        "bold": false,
-        "italic": false
+        "href": "https://www.sanofi.com/en/media-room/press-releases/2024/2024-05-21-05-30-00-2885244"
       },
       {
-        "text": " announced a collaboration to build AI-powered software across the drug-development lifecycle. Sanofi provides proprietary data, OpenAI provides model capabilities, and Formation contributes its engineering resources and development platform. That is, Formation is accountable for downstream development outcomes across partnered and owned assets. ",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": " announced a collaboration to build AI-powered software across the drug-development lifecycle. Sanofi provides proprietary data, OpenAI provides model capabilities, and Formation contributes its engineering resources and development platform. That is, Formation is accountable for downstream development outcomes across partnered and owned assets."
       }
     ]
   },
@@ -395,16 +255,7 @@
     "text": "At Series C+, success is measured by more than novelty or a single partnership. For Chai, its concentrated run of recent pharma partnerships is itself an important signal: Lilly, Pfizer, Novartis, and argenx moved to deploy the platform within a short period. The next test is whether that momentum compounds into repeatable, embedded infrastructure for pharmaceutical discovery. Neuralink, Precision, and Synchron need to show that their different interface approaches can translate into scalable clinical systems. Formation needs to show that AI can improve development decisions across the actual workflows, assets, and organizations that make up pharmaceutical R&D.",
     "runs": [
       {
-        "text": "At Series C+, success is measured by more than novelty or a single partnership. For Chai, its concentrated run of recent pharma partnerships is itself an important signal: Lilly, Pfizer, Novartis, and argenx moved to deploy the platform within a short period. The next test is whether that momentum compounds into repeatable, embedded infrastructure for pharmaceutical discovery. Neuralink, Precision, and Synchron need to show that their different interface approaches can translate into scalable clinical systems. Formation needs to show that AI can improve development decisions across the actual workflows, assets, and organizations that make up pharmaceutical R&D.",
-        "href": "",
-        "bold": false,
-        "italic": false
-      },
-      {
-        "text": "",
-        "href": "",
-        "bold": false,
-        "italic": false
+        "text": "At Series C+, success is measured by more than novelty or a single partnership. For Chai, its concentrated run of recent pharma partnerships is itself an important signal: Lilly, Pfizer, Novartis, and argenx moved to deploy the platform within a short period. The next test is whether that momentum compounds into repeatable, embedded infrastructure for pharmaceutical discovery. Neuralink, Precision, and Synchron need to show that their different interface approaches can translate into scalable clinical systems. Formation needs to show that AI can improve development decisions across the actual workflows, assets, and organizations that make up pharmaceutical R&D."
       }
     ]
   }
